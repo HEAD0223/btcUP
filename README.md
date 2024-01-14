@@ -1,6 +1,6 @@
 # Bitcoin UP Project
 
-This project represents the source code for the Bitcoin UP website, a platform that claims to provide opportunities for financial gains through cryptocurrency trading. Used @mixin
+This project represents the source code for the Bitcoin UP website, a platform that claims to provide opportunities for financial gains through cryptocurrency trading. Used SCSS with @mixin
 
 ## Table of Contents
 - [Folder Structure](#folder-structure)
