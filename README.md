@@ -20,7 +20,7 @@ This project represents the source code for the Bitcoin UP website, a platform t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/btcUP.git
+git clone https://github.com/HEAD0223/btcUP.git
 cd btcUP
 ```
 
