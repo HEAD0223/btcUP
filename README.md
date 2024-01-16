@@ -34,11 +34,10 @@ cd btcUP
 
 ## Screenshots
 
-![photo_1](https://github.com/HEAD0223/btcUP/assets/43917535/a8715a2a-c0bb-49a5-9886-b6bd2840651b)
-![photo_2](https://github.com/HEAD0223/btcUP/assets/43917535/b96b3ffd-1f5f-4f60-b0b1-fc2e20789453)
-![photo_3](https://github.com/HEAD0223/btcUP/assets/43917535/bb4c4c42-f9a6-407e-91d3-ce355568d65a)
-![photo_4](https://github.com/HEAD0223/btcUP/assets/43917535/891afa9b-e6af-4bd2-abe1-0330c6e9e7fd)
-![photo_5](https://github.com/HEAD0223/btcUP/assets/43917535/ae88d4b5-6c18-4241-b865-9a62e4430ab6)
+![Bitcoin-UP](./img/Bitcoin-UP.gif)
+![btcUP_1](./img/btcUP_1.png)
+![btcUP_2](./img/btcUP_2.png)
+![btcUP_3](./img/btcUP_3.png)
 
 ## Contributing
 
